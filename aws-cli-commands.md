@@ -1,6 +1,6 @@
 # AWS CLI commands
 
-# Install AWS CLI here:
+## Install AWS CLI here:
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 Verify installation with:
