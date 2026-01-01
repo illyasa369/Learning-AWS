@@ -14,7 +14,6 @@ aws --version
 aws configure   # Begins credentials set up process.
 
 aws sts get-caller-identity	# Returns information about the AWS identity currenly in use.
-
 ```
 <br>
 
